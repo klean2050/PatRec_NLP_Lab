@@ -2,8 +2,6 @@
 
 The repo will host the lab assignments for Pattern Recognition and Speech and Language Processing courses in ECE NTUA.
 
-# Python Introductory Lab
-
 The repo includes also the introductory lab for Pattern Recognition and Speech and Language Processing in
 NTUA. Material covers an introduction to Python, NumPy and matplotlib. Some of the material is adapted from [this
 tutorial](http://cs231n.github.io/python-numpy-tutorial/) in cs231n course at Stanford.
