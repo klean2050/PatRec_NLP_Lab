@@ -1,5 +1,0 @@
-Vagrantfile
-.vagrant
-*.pyc
-*checkpoint*
-__pycache__
